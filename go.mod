@@ -1,5 +1,5 @@
 module github.com/DannyStrelok/go_fiber_test
-
+// +heroku goVersion go1.15
 go 1.15
 
 require (
